@@ -4,8 +4,11 @@
   "scripts": {
     "reset": "npx rimraf ./**/node_modules",
     "dev": "modern dev",
+    "dev:webpack": "modern dev -c modern.config.webpack.ts",
     "build": "modern build",
+    "build:webpack": "modern build -c modern.config.webpack.ts",
     "start": "modern start",
+    "start:webpack": "modern start -c modern.config.webpack.ts",
     "serve": "modern serve",
     "new": "modern new",
     "lint": "modern lint",

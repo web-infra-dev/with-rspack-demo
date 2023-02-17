@@ -9,20 +9,30 @@
 
 1. Install dependencies.
 
-```
+```shell
  pnpm install
 ```
 
 2. Run and debug the project, in development mode:
 
-```
+```shell
+ # dev with rspack
  pnpm dev
 ```
 
-## Other commands
-
+```shell
+ # dev with webpack
+ pnpm dev:webpack
 ```
- pnpm run new           To create more project elements, such as application portals
- pnpm run build         Build Production Target
- pnpm run serve         Run Production Target
+
+## Build Production Target
+
+```shell
+ # build with rspack
+ pnpm run build
+```
+
+```shell
+ # build with webpack
+ pnpm run build:webpack
 ```

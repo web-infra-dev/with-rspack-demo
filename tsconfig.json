@@ -9,5 +9,11 @@
       "@shared/*": ["./shared/*"]
     }
   },
-  "include": ["src", "shared", "config", "modern.config.ts"]
+  "include": [
+    "src",
+    "shared",
+    "config",
+    "modern.config.ts",
+    "modern.config.webpack.ts"
+  ]
 }
