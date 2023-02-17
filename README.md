@@ -15,28 +15,26 @@
 
 2. Run and debug the project, in development mode:
 
-dev with rspack
+- dev with rspack
 
-```bash
- pnpm run dev
-```
+  ```bash
+   pnpm run dev
+  ```
 
-dev with webpack
-
-```bash
- pnpm run dev:webpack
-```
+- dev with webpack
+  ```bash
+   pnpm run dev:webpack
+  ```
 
 ## Build Production Target
 
-build with rspack
+- build with rspack
 
-```bash
- pnpm run build
-```
+  ```bash
+   pnpm run build
+  ```
 
-build with webpack
-
-```bash
- pnpm run build:webpack
-```
+- build with webpack
+  ```bash
+   pnpm run build:webpack
+  ```
