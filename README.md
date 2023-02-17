@@ -7,7 +7,11 @@
 
 ## Get Started
 
-1. Run `pnpm install` to install dependencies.
+1. Install dependencies.
+
+```
+ pnpm install
+```
 
 2. Run and debug the project, in development mode:
 
