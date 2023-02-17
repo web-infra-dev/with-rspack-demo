@@ -15,13 +15,15 @@
 
 2. Run and debug the project, in development mode:
 
+dev with rspack
+
 ```bash
- # dev with rspack
  pnpm run dev
 ```
 
+dev with webpack
+
 ```bash
- # dev with webpack
  pnpm run dev:webpack
 ```
 
