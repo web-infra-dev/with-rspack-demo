@@ -28,16 +28,16 @@
     "dist/"
   ],
   "dependencies": {
-    "@modern-js/runtime": "2.4.0",
-    "@modern-js/builder-rspack-provider": "2.4.0",
+    "@modern-js/runtime": "2.5.0",
+    "@modern-js/builder-rspack-provider": "2.5.0",
     "react": "~18.2.0",
     "react-dom": "~18.2.0"
   },
   "devDependencies": {
-    "@modern-js/app-tools": "2.4.0",
-    "@modern-js/eslint-config": "2.4.0",
-    "@modern-js/tsconfig": "2.4.0",
-    "@modern-js-app/eslint-config": "2.4.0",
+    "@modern-js/app-tools": "2.5.0",
+    "@modern-js/eslint-config": "2.5.0",
+    "@modern-js/tsconfig": "2.5.0",
+    "@modern-js-app/eslint-config": "2.5.0",
     "lint-staged": "~13.1.0",
     "prettier": "~2.8.1",
     "husky": "~8.0.1",
