@@ -17,22 +17,24 @@
 
 ```bash
  # dev with rspack
- pnpm dev
+ pnpm run dev
 ```
 
 ```bash
  # dev with webpack
- pnpm dev:webpack
+ pnpm run dev:webpack
 ```
 
 ## Build Production Target
 
+build with rspack
+
 ```bash
- # build with rspack
  pnpm run build
 ```
 
+build with webpack
+
 ```bash
- # build with webpack
  pnpm run build:webpack
 ```

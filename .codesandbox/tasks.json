@@ -7,7 +7,7 @@
     },
     "start-app": {
       "name": "Run Dev Server",
-      "command": "pnpm build dev",
+      "command": "pnpm run dev",
       "runAtStart": true
     },
     "build-app": {
