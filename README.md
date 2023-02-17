@@ -9,30 +9,30 @@
 
 1. Install dependencies.
 
-```shell
+```bash
  pnpm install
 ```
 
 2. Run and debug the project, in development mode:
 
-```shell
+```bash
  # dev with rspack
  pnpm dev
 ```
 
-```shell
+```bash
  # dev with webpack
  pnpm dev:webpack
 ```
 
 ## Build Production Target
 
-```shell
+```bash
  # build with rspack
  pnpm run build
 ```
 
-```shell
+```bash
  # build with webpack
  pnpm run build:webpack
 ```
